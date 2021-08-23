@@ -35,6 +35,7 @@ Wikipedia has a ton of information about movies, including budgets and box offic
 ![Captura de pantalla (645)](https://user-images.githubusercontent.com/86340630/129520318-308e9c25-2af0-4bce-9895-bb5e55d83eb4.png)
 
 4.	 Create the Movie Database
+# Images
 ![Captura de pantalla (676)](https://user-images.githubusercontent.com/86340630/130419177-ca0748bf-f31b-4d5a-9244-a19201f22d91.png)
 ![Captura de pantalla (677)](https://user-images.githubusercontent.com/86340630/130419245-56daf63f-8bf0-4d6a-ad00-b2dd6196b3d1.png)
 
