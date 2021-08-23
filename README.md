@@ -26,24 +26,17 @@ Wikipedia has a ton of information about movies, including budgets and box offic
 # Image
 ![image](https://user-images.githubusercontent.com/86340630/129537055-c4d57cc4-4e45-41fe-a3cb-6eb6098a93f6.png)
 
-2.	The function converts the Wikipedia JSON file to a Pandas DataFrame, and the DataFrame is displayed in the ETL_function_test.ipynb file.
+2.	Extract and Transform the Wikipedia Data
 # Image
 ![Captura de pantalla (647)](https://user-images.githubusercontent.com/86340630/129522495-645308ee-62e8-4024-99aa-18d385aa5ebf.png)
 
-3.	The function converts the Kaggle metadata file to a Pandas DataFrame, and the DataFrame is displayed in the ETL_function_test.ipynb file.
+3.	Deliverable 3: Extract and Transform the Kaggle Data
 # Image
 ![Captura de pantalla (645)](https://user-images.githubusercontent.com/86340630/129520318-308e9c25-2af0-4bce-9895-bb5e55d83eb4.png)
 
-4.	The function converts the MovieLens ratings data file to a Pandas DataFrame, and the DataFrame is displayed in the ETL_function_test.ipynb file.
-# Images
-
-![image](https://user-images.githubusercontent.com/86340630/129524657-6a461558-d5bd-4c9f-aa46-d645d79c1367.png)
-
-![image](https://user-images.githubusercontent.com/86340630/129525096-1a55a708-9b90-405c-97bc-0761a55df8fb.png)
-
-![image](https://user-images.githubusercontent.com/86340630/129525115-a87315eb-9ab5-4646-a8ee-c9c63030dfda.png)
-
-![image](https://user-images.githubusercontent.com/86340630/129525129-1afa01e5-810c-469b-8bcb-87496e17822e.png)
+4.	 Create the Movie Database
+![Captura de pantalla (676)](https://user-images.githubusercontent.com/86340630/130419177-ca0748bf-f31b-4d5a-9244-a19201f22d91.png)
+![Captura de pantalla (677)](https://user-images.githubusercontent.com/86340630/130419245-56daf63f-8bf0-4d6a-ad00-b2dd6196b3d1.png)
 
 
 
